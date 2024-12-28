@@ -1,3 +1,4 @@
 x = 56
 y = 34
-print(x + y) 
+z = 80
+print(x + y + z)
